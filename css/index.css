@@ -1,0 +1,50 @@
+/**
+ * index.scss
+ Add any styles you want here!
+ */
+
+body {
+  background: #f6f0e2fc;
+}
+#dnav a{
+  text-decoration: none;
+  list-style-type: none;
+  color: #000000;
+}
+ul.site-nav, .site-nav-dropdown-content {
+  list-style-type: none;
+  width: 100%;
+  margin: 0, auto;
+}
+.site-nav-bttn, .logo, .site-nav-dropdown-content a{
+  position:relative;
+  display: inline-block;
+  width: 10%;
+  padding: 15px;
+  margin: 0, auto;
+}
+.site-nav-dropdown-content{
+  display: none;
+  position: absolute;
+}
+.site-nav-bttn:hover .site-nav-dropdown-content{
+  display: block;
+  text-align: left;
+  margin: 0;
+  padding: 0;
+  left:0;
+}
+.sidebar a{
+  text-decoration: none;
+  list-style-type: none;
+  color: #000000;
+  display: inline-block;
+  padding: 10px;
+}
+li.sidebar_list{
+  list-style-type: none;
+}
+div.sidebarWrapper{
+  display: inline-block;
+  padding-top: 20px;
+}
