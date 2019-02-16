@@ -20,7 +20,7 @@
     <div class="col-6">
         <h1>GET TO KNOW US</h1><br>
         <p class="description">Text and Textile is founded by Riana Sugihatmaja collabed with Santi Mustika in 2019.
-        <br>General theme of the company is Minimalist and Coastal. The company uses nudes and natural colors as the base color and atmosphere of the design that will inspire the products created.
+        <br>General theme of the company is Minimalist and Coastal. The company uses nudes and natural colors as the base color and atmosphere of the design that inspire the products created.
  	    <br>We focus on stationery and lifestyle roducts. The types of products of our company are various, which are:
              <ul>
                 <li>Stationery : Notes/Journal, Planner, Agenda, Canvas Pouches and Bags</li>
