@@ -1,6 +1,13 @@
 <style>
     h2{
         text align: center;
+        font-size: 1rem;
+    }
+    .h2{
+        margin-top: 1rem;
+    }
+    .container{
+        font-size: 1rem;
     }
 </style>
 <?php echo file_get_contents("header.html"); ?>
@@ -24,8 +31,7 @@
         </div>
         <button type="submit" lass="btn btn-primary">Sign In</button>
     </form>
-<br/>
-    <h2>Create an account?</h2>
+    <h2 class="h2">Create an account?</h2>
     <form>
         <div class="form-row">
             <legend>Sign On</legend>
