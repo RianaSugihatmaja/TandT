@@ -1,13 +1,12 @@
 <style>
-    h2{
-        text align: center;
-        font-size: 1rem;
-    }
     .h2{
         margin-top: 1rem;
     }
     .container{
         font-size: 1rem;
+    }
+    .legend0{
+        margin-left: .3rem;
     }
 </style>
 <?php echo file_get_contents("header.html"); ?>
@@ -34,7 +33,7 @@
     <h2 class="h2">Create an account?</h2>
     <form>
         <div class="form-row">
-            <legend>Sign On</legend>
+            <legend class="legend0">Sign On</legend>
             <div class="col">
                 <input type="text" class="form-control" placeholder="First name">
             </div>
