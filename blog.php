@@ -7,4 +7,8 @@
         </ol>
     </nav>
 </div>
+<div>
+    <h2> How Writing Journal Helps My Mental Health <h2>
+        <p>
+</div>
 <?php echo file_get_contents("footer.html"); ?>
