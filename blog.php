@@ -7,7 +7,7 @@
         </ol>
     </nav>
 </div>
-<div>
+<div class="container">
     <h2> How Writing Journal Helps My Mental Health <h2>
         <p>
 </div>
