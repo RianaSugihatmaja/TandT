@@ -9,11 +9,13 @@
 </div>
 <div class="container">
     <h2> How Writing Journal Helps My Mental Health </h2><br>
-        <p>Journaling has been a part of my life since I was a little girl, not only that it helps me mentally, but it also helps me to stay creative and productive. I cannot stress it enough how writing down thoughts, feelings, ideas or even doodle on papers can help us to be on top of things. <br>
-        As human we have limited ability to process and save information including but not limited to work, social or personal information. Internet and social media also play a big part in using up the space in our head. Overflowing information that we take in consciously or unconsciously can exhaust our mind and lead to several mental issues like anxiety, insecurity, panic attack, depression and more if it is not managed properly.<br>
-        The awareness of mental health has significantly increased in the recent years especially in developed countries. Nowadays, there are many non-profit, private and governmental organizations providing therapy for people who need mental treatment. It is a big improvement that people have earned to be able to talk about their mental health more freely, since for the longest time talking about it is considered taboo and weak.
+        <p>Journaling has been a part of my life since I was a little girl, not only that it helps me mentally, but it also helps me to stay creative and productive. I cannot stress it enough how writing down thoughts, emotions, ideas or even doodle on papers can help us to be on top of things.
         </p><br>
-        <p>In addition to all those services, we can try to treat and help ourselves by journaling especially when those services are not accessible. I believe that all of us need to learn and practice to protect and treat ourselves from within. And one of the easiest, most accessible way is to journal. By writing down all the emotions that we are feeling, we can try to figure out a pattern of when those things come and bother us. From there we can try to make a game plan to caught ourselves and cut the chain of damage.
+        <p>As human we have limited ability to process and save information including but not limited to work, social or personal information. Internet and social media also play a big part in using up the space in our head. Overflowing information that we take in consciously or unconsciously can exhaust our mind and lead to several mental issues like anxiety, insecurity, panic attack, depression and more if it is not managed properly.
+        </p><br>
+        <p>The awareness of mental health has significantly increased in the recent years especially in developed countries. It is a big improvement that people have earned to be able to talk about their mental health more freely, since for the longest time talking about it is considered taboo and weak. Nowadays, there are many non-profit, private and governmental organizations providing therapy for people who need mental treatment.
+        </p><br>
+        <p>
         </p><br>
     <img>
     <br>
