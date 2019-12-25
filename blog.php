@@ -7,6 +7,12 @@
         </ol>
     </nav>
 </div>
+<style>
+    p{
+        text-align: justify;
+    }    
+</style>
+
 <div class="container">
     <h2> How Writing Journal Helps My Mental Health </h2><br>
         <p>Journaling has been a part of my life since I was a little girl, not only that it helps me mentally, but it also helps me to stay creative and productive. I cannot stress it enough how writing down thoughts, emotions, ideas or even doodle on papers can help us to be on top of things.
