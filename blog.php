@@ -8,7 +8,7 @@
     </nav>
 </div>
 <style>
-    p{
+    .article{
         text-align: justify;
     }    
 </style>
