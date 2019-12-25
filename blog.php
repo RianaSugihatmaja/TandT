@@ -14,7 +14,7 @@
 </style>
 
 <div class="container">
-    <h2> How Writing Journal Helps My Mental Health </h2>
+    <h2> How Writing Journal Helps My Mental Health </h2><br>
         <p class="article">Journaling has been a part of my life since I was a little girl, not only that it helps me mentally, but it also helps me to stay creative and productive. I cannot stress it enough how writing down thoughts, emotions, ideas or even doodle on papers can help us to be on top of things.
         <br>As human we have limited ability to process and save information including but not limited to work, social or personal information. Internet and social media also play a big part in using up the space in our head. Overflowing information that we take in consciously or unconsciously can exhaust our mind and lead to several mental issues like anxiety, insecurity, panic attack, depression and more if it is not managed properly. 
         <br>The awareness of mental health has significantly increased in the recent years especially in developed countries. 
