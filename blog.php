@@ -20,10 +20,10 @@
         <br><h3>Acknowledge and Explain</h3> 
         The first technique that I use very often is to dedicate one blank page as an acknowledgment page where I will write down all the emotions I’m feeling without filters or organization. By doing this I am labeling and acknowledging my emotions, and it helps to release a bit of weight off my chest and mind. Sometimes even just by doing this I would feel more relaxed already.
         <br>The next page is an explanation page for tracking down the reason I’m feeling those emotions. Having an order to the writing is not the priority in this stage, I would just try to be as honest and non-judgmental as possible. After I feel like I have sorted out all my emotions, then I would try to draw conclusion at the end of the page. From doing this I can put some order in my previously chaotic mind and give me a perspective of what my problem actually is and find solutions to it.
-        </p><br>
+        </p>
         <br><h3>Story Telling</h3>
         <p>Another way of journaling that I like to do is telling the story that makes me sad. I will describe the situation and rant on what makes me angry even if it is unreasonable. It helps express my feelings and thoughts on the situation without possibly hurting anyone or putting myself in a more difficult situation. This generally helps me calm down so that I can revisit the problem later in a better judgement. The point of doing this is to be aware of what our immediate response, behavior, and feelings to upsetting events and then learn to manage them if similar situation presented itself in the future. Practicing this can save us from many unnecessary problems and stress.
-        </p><br>
+        </p>
 </div class="container">
 
 <?php echo file_get_contents("footer.html"); ?>
